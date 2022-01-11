@@ -1,0 +1,34 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "express-session": "^1.17.2",
+    "i": "^0.3.7",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.13.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murphyoc1/MVC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murphyoc1/MVC/issues"
+  },
+  "homepage": "https://github.com/murphyoc1/MVC#readme"
+}

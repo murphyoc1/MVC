@@ -36,3 +36,5 @@
     Email me with any questions @fakeeamil.com
     
     Find me on GitHub @ murphyoc
+    Link to deployed Heroku : https://desolate-citadel-85557.herokuapp.com/
+    Link to GitHub repo : https://github.com/murphyoc1/MVC 
